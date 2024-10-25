@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.flex-container{
+    height: 40rem;
+    width:40rem;
+    display: flex;
+    border:2px solid black;
+    flex-wrap: wrap;
+}
+.flex-child1{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+}
+.flex-child2{
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+}
+.flex-child3{
+    background-color: palevioletred;
+    width: 900px;
+    height: 100px;
+}
+.flex-child4{
+    background-color: green;
+    width: 500px;
+    height: 100px;
+}
+.flex-child5{
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.flex-child6{
+    background-color:maroon;
+    width: 200px;
+    height: 100px;
+}
